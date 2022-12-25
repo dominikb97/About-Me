@@ -1,3 +1,5 @@
+# 💫 About Me:
+
 ## I'm Dominik, Junior Software and Test Engineer in embedded, aspiring QA ## 
  By refining the following fields planning, designing and executing software tests and reporting results. Learning the basics of object-oriented programming in Java, the git version control system, databases and SQL language, and programming and testing support tools and their practical use in software test automation.
 
