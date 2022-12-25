@@ -20,6 +20,6 @@
 
 
 ## Get in touch ##
-LinkedIn: [@dominikbulinski](www.linkedin.com/in/dominikbulinski/)<br>
+LinkedIn: [@dominikbulinski](https://www.linkedin.com/in/dominikbulinski/)<br>
 
 ### [![](https://visitcount.itsvg.in/api?id=dominikb97&icon=0&color=0)](https://visitcount.itsvg.in)
